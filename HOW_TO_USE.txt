@@ -1,0 +1,5 @@
+-Primero debe crear una base de datos, desde el menu BBDD
+-Crear registro: Debe agregar los datos que quiera en los cuadros de texto y presionar crear, puede hacerlo desde el boton "crear" o desde el menu CRUD.
+-Ver registro: Para acceder a un registro debe buscar su id(numero identificatorio) desde la lista desplegable "registros"
+-Borrar registros: Debe buscar el id(numero identificatorio) desde la lista desplegable "registros" y luego darle al boton "Borrar" o desde el menu CRUD.
+-Modificar: Debe buscar el id(numero identificatorio) desde la lista desplegable "registros" y luego cambiar la informacion que desea modificar. Una vez hecha la modificacion debe tocar el boton modificar o desde el menu CRUD.
